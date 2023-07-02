@@ -12,7 +12,7 @@ public class Main2 {
         alfa=inp.nextInt();
 
         area=(pi*(r*r)*alfa)/360;
-        System.out.println(area);
+        System.out.println("Daire Diliminin Alanı "+area);
 
 
 
